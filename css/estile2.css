@@ -1,0 +1,44 @@
+#menu{
+    background-color: antiquewhite;
+    }
+    
+    #menu ul{
+        list-style:none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #menu ul li{
+        display:inline-block;
+    }
+    #menu ul li a{
+    color:black;
+    display:block;
+    padding: 15px 60px;
+    text-decoration:none;
+    }
+    
+    #menu ul li a:hover{
+        background-color: #42B881;
+        transition:all 0.5s;
+        transition-duration: 0.2s;;
+        background-image: linear-gradient(rgba(0, 132, 255, 0.788),rgba(0, 232, 255, 0.788),rgb(248, 242, 242,0.788));
+        }
+
+    hr{
+        background-color: black, blue;
+        padding: 5px;
+        cursor: pointer;
+        
+    }
+
+    
+    
+    hr:hover{
+        background-color: black blue red;
+        border-radius: bluered;
+        padding: 5px;
+    }
+    
+
+    

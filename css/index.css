@@ -1,0 +1,43 @@
+*{
+	
+	background-image:rgba(231, 213, 213, 0.74);
+}
+
+ /*div.img{
+     cambia estos dos valores para definir el tamaño de tu círculo 
+    height: 100px;
+    width: 300px;
+     los siguientes valores son independientes del tamaño del círculo 
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}*/
+
+
+/* div #logo{
+	text-align: center;
+	padding: auto;
+	border: none;
+	text-decoration: none;
+} */
+
+/*div#img{
+	margin: 0;
+	border: none;
+}
+/#img{
+	outline: none;
+	cursor: pointer;
+} */
+/*sform-style: preserve-3d;
+} */
+
+#enviar{
+	color: #0072ff,#00c6ff;
+}
+
+div .alert {
+	background-color: #004FF9,#00c6ff;
+}
+
